@@ -10,11 +10,19 @@
 <ul>
 <li><p>UML Diagram</p>
 <ul>
-<li>Use Case Diagram</li>
+<li><p>Use Case Diagram</p>
+<p><img src="https://user-images.githubusercontent.com/45482747/115950641-74f55c80-a517-11eb-9ea7-771ba0c7f4e1.png" width="700" height="500"></p>
+</li>
+<li><p>Sequence Diagram</p>
+<p><img src="https://user-images.githubusercontent.com/45482747/115950641-74f55c80-a517-11eb-9ea7-771ba0c7f4e1.png" width="700" height="500"></p>
+</li>
+<li><p>Class Diagram</p>
+<p><img src="https://user-images.githubusercontent.com/45482747/115950641-74f55c80-a517-11eb-9ea7-771ba0c7f4e1.png" width="700" height="500"></p>
+</li>
 </ul>
 </li>
 </ul>
-<img src="https://user-images.githubusercontent.com/45482747/115950641-74f55c80-a517-11eb-9ea7-771ba0c7f4e1.png" width="100" height="100">
+
   
   
   
