@@ -13,11 +13,11 @@
 <li><p>Use Case Diagram</p>
 <p><img src="https://user-images.githubusercontent.com/45482747/115950641-74f55c80-a517-11eb-9ea7-771ba0c7f4e1.png" width="700" height="500"></p>
 </li>
-<li><p>Sequence Diagram</p>
-<p><img src="https://user-images.githubusercontent.com/45482747/115950641-74f55c80-a517-11eb-9ea7-771ba0c7f4e1.png" width="700" height="500"></p>
+<li><p>Sequence Diagram</p> 
+<p><img src="https://user-images.githubusercontent.com/45482747/115951565-58a7ee80-a51c-11eb-803d-894832267660.jpg" width="700" height="500"></p>
 </li>
-<li><p>Class Diagram</p>
-<p><img src="https://user-images.githubusercontent.com/45482747/115950641-74f55c80-a517-11eb-9ea7-771ba0c7f4e1.png" width="700" height="500"></p>
+<li><p>Class Diagram</p> 
+<p><img src="https://user-images.githubusercontent.com/45482747/115951590-7412f980-a51c-11eb-9c7d-18b75ae02279.png" width="500" height="500"></p>
 </li>
 </ul>
 </li>
