@@ -129,7 +129,7 @@
 <li>expression 메소드 알고리즘</li>
 <p> <img src="https://user-images.githubusercontent.com/45482747/115993336-45288080-a60d-11eb-9d67-e9b16f09b523.png" width="500" height="900"></p>
 <li>operator 메소드 알고리즘</li>
-<p> <img src="https://user-images.githubusercontent.com/45482747/115993411-9f294600-a60d-11eb-8816-b4b002bf29b9.png" width="500" height="700"></p>
+<p> <img src="https://user-images.githubusercontent.com/45482747/115993411-9f294600-a60d-11eb-8816-b4b002bf29b9.png" width="400" height="900"></p>
 <li>isNumber 메소드 알고리즘</li>
 <p> <img src="https://user-images.githubusercontent.com/45482747/115950641-74f55c80-a517-11eb-9ea7-771ba0c7f4e1.png" width="700" height="500"></p>
 </ul>
