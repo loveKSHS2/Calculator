@@ -143,6 +143,6 @@
 <p> <img src="https://user-images.githubusercontent.com/45482747/115995669-2dee9080-a617-11eb-8880-d565c24df3c8.png" width="600" height="400"></p>
 
 - history 화면
-<p> <img src="https://user-images.githubusercontent.com/45482747/115995838-cd138800-a617-11eb-8e8d-e9951dae6e16.png" width="500" height="900"></p>
+<p> <img src="https://user-images.githubusercontent.com/45482747/115995838-cd138800-a617-11eb-8e8d-e9951dae6e16.png" width="600" height="400"></p>
 
 참고 github: https://github.com/ksa-banana/Java_Programming/blob/master/document/TeamProject_DOC.md
